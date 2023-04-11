@@ -6,6 +6,7 @@ use bevy::{
 #[derive(Default)]
 pub struct VertexCountDiagnosticsPlugin;
 
+#[derive(Resource)]
 pub struct VertexCountDiagnosticsSettings {
     pub only_visible: bool,
 }
