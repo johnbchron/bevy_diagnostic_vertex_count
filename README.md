@@ -1,7 +1,7 @@
 [![Bevy tracking](https://img.shields.io/badge/Bevy%20tracking-released%20version-lightblue)](https://github.com/bevyengine/bevy/blob/main/docs/plugins_guidelines.md#main-branch-tracking)
 [![crates.io](https://img.shields.io/crates/v/bevy_diagnostic_vertex_count)](https://crates.io/crates/bevy_diagnostic_vertex_count/)
 
-# USE
+# Usage
 ```rust
 use bevy::{
     prelude::*,
@@ -21,12 +21,14 @@ fn main() {
 }
 ```
 
-# VERSIONS
+# Versions
 
-| bevy_diagnostic_vertex_count | bevy |
-|------------------------------|------|
-| 0.2                          | 0.8  |
-| 0.1                          | 0.7  |
+| bevy_diagnostic_vertex_count | bevy    |
+|------------------------------|---------|
+| 0.4                          | 0.11    |
+| 0.3                          | 0.10.1  |
+| 0.2                          | 0.8     |
+| 0.1                          | 0.7     |
 
-# LICENSE
+# Licence
 Dual-licensed under APACHE-2.0 or MIT

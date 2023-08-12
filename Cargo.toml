@@ -9,7 +9,7 @@ categories = []
 exclude = []
 edition = "2021"
 readme = "README.md"
-repository = "https://github.com/DMClVG/bevy_diagnostic_vertex_count"
+repository = "https://github.com/johnbchron/bevy_diagnostic_vertex_count"
 
 [dependencies]
-bevy = { version="0.10.1", default-features = false, features=["bevy_asset", "bevy_render"] }
+bevy = { version="0.11.0", default-features = false, features=["bevy_asset", "bevy_render"] }
